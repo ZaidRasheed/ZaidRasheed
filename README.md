@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at Concordia University in Montreal.
 - 🌱 &nbsp; Learning more about Full Stack Development and Systems Design.
 - 📚 &nbsp; I spend the rest of my time reading and working out.
