@@ -5,15 +5,15 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at Concordia University in Montreal.
 - 📚 &nbsp; Learning more about Full Stack Development and Systems Design.
-- 💪🏽 &nbsp; I spend the rest of my time reading and working out.
+- 💪🏽 &nbsp; Gym rat who enjoys reading books.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-1B2430?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-1B2430?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-1B2430?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-1B2430?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-1B2430?style=flat&logo=Typescript)
   ![Node.js](https://img.shields.io/badge/-Node.js-1B2430?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-1B2430?style=flat&logo=Express)
@@ -26,6 +26,8 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-1B2430?style=flat&logo=mysql&logoColor=ffffff)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-1B2430?style=flat&logo=mongodb)
+  ![FireStore](https://img.shields.io/badge/-FireStore-1B2430?style=flat&logo=firebase)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-1B2430?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-1B2430?style=flat&logo=github)
