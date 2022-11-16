@@ -13,8 +13,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-2a3a56?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-2a3a56?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-2a3a56?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-2a3a56?style=flat&logo=Typescript)
+- 🌐 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-2a3a56?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-2a3a56?style=flat&logo=Express)
   ![React.js](https://img.shields.io/badge/-React.js-2a3a56?style=flat&logo=react)
