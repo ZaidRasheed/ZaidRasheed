@@ -12,16 +12,16 @@
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-2a3a56?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-2a3a56?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-2a3a56?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/-C++-2a3a56?style=flat&logo=C%2B%2B&logoColor=3273c2)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-2a3a56?style=flat&logo=Typescript)
   ![WordPress](https://img.shields.io/badge/-Wordpress-2a3a56?style=flat&logo=wordpress)
 - 🌐 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-2a3a56?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-2a3a56?style=flat&logo=Express)
   ![React.js](https://img.shields.io/badge/-React.js-2a3a56?style=flat&logo=react)
-  ![Jest](https://img.shields.io/badge/-Jest-2a3a56?style=flat&logo=jest)
+  ![Jest](https://img.shields.io/badge/-Jest-2a3a56?style=flat&logo=jest&logoColor=b06178)
   ![Flask](https://img.shields.io/badge/-Flask-2a3a56?style=flat&logo=flask)
-  ![jQuery](https://img.shields.io/badge/-jQuery-2a3a56?style=flat&logo=jQuery)
+  ![jQuery](https://img.shields.io/badge/-jQuery-2a3a56?style=flat&logo=jQuery&logoColor=3f7bbf)
   ![HTML5](https://img.shields.io/badge/-HTML5-2a3a56?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-2a3a56?style=flat&logo=CSS3&logoColor=1572B6)
   
