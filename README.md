@@ -19,6 +19,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-2a3a56?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-2a3a56?style=flat&logo=Express)
   ![React.js](https://img.shields.io/badge/-React.js-2a3a56?style=flat&logo=react)
+  ![Vitest](https://img.shields.io/badge/-Vitest-2a3a56?style=flat&logo=vitest)
   ![Jest](https://img.shields.io/badge/-Jest-2a3a56?style=flat&logo=jest&logoColor=b06178)
   ![Flask](https://img.shields.io/badge/-Flask-2a3a56?style=flat&logo=flask)
   ![jQuery](https://img.shields.io/badge/-jQuery-2a3a56?style=flat&logo=jQuery&logoColor=3f7bbf)
