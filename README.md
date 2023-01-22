@@ -25,6 +25,8 @@
   ![jQuery](https://img.shields.io/badge/-jQuery-2a3a56?style=flat&logo=jQuery&logoColor=3f7bbf)
   ![HTML5](https://img.shields.io/badge/-HTML5-2a3a56?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-2a3a56?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-2a3a56?style=flat&logo=tailwindCSS&logoColor=#4DA8C4)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2a3a56?style=flat&logo=bootstrap&logoColor=8639f7)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-2a3a56?style=flat&logo=mysql&logoColor=ffffff)
