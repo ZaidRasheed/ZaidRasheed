@@ -22,6 +22,7 @@
   ![Vitest](https://img.shields.io/badge/-Vitest-2a3a56?style=flat&logo=vitest)
   ![Jest](https://img.shields.io/badge/-Jest-2a3a56?style=flat&logo=jest&logoColor=b06178)
   ![Flask](https://img.shields.io/badge/-Flask-2a3a56?style=flat&logo=flask)
+  ![FireBase](https://img.shields.io/badge/-FireBase-2a3a56?style=flat&logo=firebase)
   ![jQuery](https://img.shields.io/badge/-jQuery-2a3a56?style=flat&logo=jQuery&logoColor=3f7bbf)
   ![HTML5](https://img.shields.io/badge/-HTML5-2a3a56?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-2a3a56?style=flat&logo=CSS3&logoColor=1572B6)
@@ -30,9 +31,7 @@
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-2a3a56?style=flat&logo=mysql&logoColor=ffffff)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-2a3a56?style=flat&logo=mongodb)
-  ![FireStore](https://img.shields.io/badge/-FireStore-2a3a56?style=flat&logo=firebase)
-  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-2a3a56?style=flat&logo=mongodb)  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-2a3a56?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-2a3a56?style=flat&logo=github)
