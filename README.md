@@ -13,6 +13,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-2a3a56?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-2a3a56?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-2a3a56?style=flat&logo=C%2B%2B&logoColor=3273c2)
+  ![C](https://img.shields.io/badge/-C-2a3a56?style=flat&logo=C&logoColor=3273c2)
+  ![C#](https://img.shields.io/badge/-C%23-2a3a56?style=flat&logo=C%23&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-2a3a56?style=flat&logo=Typescript)
   ![WordPress](https://img.shields.io/badge/-Wordpress-2a3a56?style=flat&logo=wordpress)
 - 🌐 &nbsp;
@@ -20,6 +22,7 @@
   ![Express.js](https://img.shields.io/badge/-Express.js-2a3a56?style=flat&logo=Express)
   ![React.js](https://img.shields.io/badge/-React.js-2a3a56?style=flat&logo=react)
   ![Vitest](https://img.shields.io/badge/-Vitest-2a3a56?style=flat&logo=vitest)
+  ![dotnet](https://img.shields.io/badge/-.Net-2a3a56?style=flat&logo=.Net&logoColor=white)
   ![Jest](https://img.shields.io/badge/-Jest-2a3a56?style=flat&logo=jest&logoColor=b06178)
   ![Flask](https://img.shields.io/badge/-Flask-2a3a56?style=flat&logo=flask)
   ![FireBase](https://img.shields.io/badge/-FireBase-2a3a56?style=flat&logo=firebase)
