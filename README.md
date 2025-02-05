@@ -14,7 +14,7 @@
   ![Python](https://img.shields.io/badge/-Python-2a3a56?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-2a3a56?style=flat&logo=C%2B%2B&logoColor=3273c2)
   ![C](https://img.shields.io/badge/-C-2a3a56?style=flat&logo=C&logoColor=3273c2)
-  ![C#](https://img.shields.io/badge/-C%23-2a3a56?style=flat&logo=C%23&logoColor=white)
+  ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=C%23&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-2a3a56?style=flat&logo=Typescript)
   ![WordPress](https://img.shields.io/badge/-Wordpress-2a3a56?style=flat&logo=wordpress)
 - 🌐 &nbsp;
