@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at Concordia University in Montreal.
-- 📖 &nbsp; Learning more about Full Stack Development and Systems Design.
+- 📖 &nbsp; Learning more about Software Development and Systems Design.
 - ⌛️ &nbsp; 🏋️‍♂️🐀 &nbsp; & &nbsp; 📚🐛.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
