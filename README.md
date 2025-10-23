@@ -61,4 +61,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaidrasheed)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://zaidrasheed.me)
-[![Edom Media](https://img.shields.io/badge/-Edom%20Media-2a3a56?style=flat&logo=squarespace)](https://edommedia.com)
