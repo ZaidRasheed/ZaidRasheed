@@ -27,7 +27,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2a3a56?style=flat&logo=bootstrap)
 ![WordPress](https://img.shields.io/badge/-WordPress-2a3a56?style=flat&logo=wordpress)
 
-**Backend & Dev Tools:**  
+**Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-2a3a56?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-2a3a56?style=flat&logo=nestjs&logoColor=e0234e)
 ![Express.js](https://img.shields.io/badge/-Express-2a3a56?style=flat&logo=express)
