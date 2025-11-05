@@ -20,29 +20,25 @@
 ![C++](https://img.shields.io/badge/-C++-2a3a56?style=flat&logo=c%2B%2B&logoColor=3273c2)
 ![PHP](https://img.shields.io/badge/-PHP-2a3a56?style=flat&logo=php)
 
-**Frontend:**  
+**Frameworks:**  
 ![React](https://img.shields.io/badge/-React-2a3a56?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-2a3a56?style=flat&logo=redux)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-2a3a56?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2a3a56?style=flat&logo=bootstrap)
-![WordPress](https://img.shields.io/badge/-WordPress-2a3a56?style=flat&logo=wordpress)
-
-**Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-2a3a56?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-2a3a56?style=flat&logo=nestjs&logoColor=e0234e)
 ![Express.js](https://img.shields.io/badge/-Express-2a3a56?style=flat&logo=express)
 ![.NET](https://img.shields.io/badge/-.NET-2a3a56?style=flat&logo=dotnet)
 ![Flask](https://img.shields.io/badge/-Flask-2a3a56?style=flat&logo=flask)
+![WordPress](https://img.shields.io/badge/-WordPress-2a3a56?style=flat&logo=wordpress)
 
-**Cloud, CI/CD & Tools:**  
+**Cloud, CI/CD & Databases:**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-2a3a56?style=flat&logo=docker)
 ![Firebase](https://img.shields.io/badge/-Firebase-2a3a56?style=flat&logo=firebase)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2a3a56?style=flat&logo=githubactions)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-2a3a56?style=flat&logo=azuredevops)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-2a3a56?style=flat&logo=jenkins)
-
-**Databases:**  
 ![MySQL](https://img.shields.io/badge/-MySQL-2a3a56?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2a3a56?style=flat&logo=mongodb)
 
